@@ -1,7 +1,3 @@
-# shor.tz
-The Shor.tz NLP and Deep Learning Crossword Prompt Solver, created by Timothy M. Howe
-![shortz](https://user-images.githubusercontent.com/18273262/184554967-e13839f7-fd13-405c-a442-e9a47b56cfa2.jpg)
-
 ## Meet shor.tz!
 
 
