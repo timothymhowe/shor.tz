@@ -1,5 +1,8 @@
-# Meet SHOR.TZ!
+# shor.tz
+The Shor.tz NLP and Deep Learning Crossword Prompt Solver, created by Timothy M. Howe
 ![shortz](https://user-images.githubusercontent.com/18273262/184554967-e13839f7-fd13-405c-a442-e9a47b56cfa2.jpg)
+
+## Meet shor.tz!
 
 
   Crosswords are a more than just a popular word puzzle. Depending on who you ask, they can be a hobby, a morning ritual, a way to kill time, a bonding activity, an intense competition, and an addiction. 
