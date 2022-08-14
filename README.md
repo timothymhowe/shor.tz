@@ -2,11 +2,7 @@
 ![shortz](https://user-images.githubusercontent.com/18273262/184554967-e13839f7-fd13-405c-a442-e9a47b56cfa2.jpg)
 
 
-  Crosswords are 
-  
-  Not unlike t
-  
-  Solving a NYT Crossword Puzzle involves 
+  Crosswords are a more than just a popular word puzzle. Depending on who you ask, they can be a hobby, a morning ritual, a way to kill time, a bonding activity, an intense competition, and an addiction. 
   
 ### The Problem: 
   
