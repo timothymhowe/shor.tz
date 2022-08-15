@@ -1,23 +1,16 @@
 ## Meet shor.tz!
 
 
-  Crosswords are a more than just a popular word puzzle. Depending on who you ask, they can be a hobby, a morning ritual, a way to kill time, a bonding activity, an intense competition, and an addiction. 
+  Crosswords are a more than just a popular word puzzle. Depending on who you ask, they can be a hobby, a morning ritual, a way to kill time, a bonding activity, a competition, or even an addiction. 
   
 ### The Problem: 
   
-
-  The New York Times crossword is 
-  
-  
-  
-  Many puzzles even have a 'theme' that requires solvers to 
-  
   [In this guide](https://www.nytimes.com/guides/crosswords/how-to-solve-a-crossword-puzzle), The New York Times gives a straightforward explanation of how a solver should approach the puzzle.  Most importantly, it breaks down the following types of clues:
    - **Must Match:** The answer to a given clue generally must be in grammatical agreement with its clue, for example:
-     - Tense
-     - Part of Speech
-     - Plurality
-     - Language
+     - *Tense:  *
+     - *Part of Speech:  *
+     - *Plurality:  *
+     - *Language:  *
    - **Cross Reference:**
    - **Partner:**
    - **Abbreviations:**
@@ -26,7 +19,9 @@
      - For short, as in “Free TV spot, for short” for `PSA`
      - In brief, as in “Individual rights defender, in brief” for `ACLU`
   
-
+ But the type of clue that I am most interested in is the **?** clue. A question mark at the end of a clue signals that the clue uses some sort of figurative language, be it a pun, a play on words, or something possibly related to the theme.  
+  
+  
 ### Process
 
 ### Resources
