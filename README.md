@@ -39,7 +39,20 @@ are beyond the scope of this project.
 
 ### Process
 
-### Resources
+### Tech Stack
+This project is built on the following solutions/frameworks/technologies:
+ - `Jupyter Notebook/Lab
+ - Tensorflow
+ - Keras
+ - RapidsAI
+ - CUDA Toolkit, CuDNN
+ - BERT
+ - NLTK
+ - GPT-3
+ - Node.js
+ - MongoDB
+ - GCS
+ - Bokeh, Plotly  `
 
 ### Results
 
