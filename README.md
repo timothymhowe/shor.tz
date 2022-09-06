@@ -5,7 +5,7 @@
   
 ### The Problem: 
   
-
+#### Clues
   The New York Times crossword is 
   
   
@@ -25,7 +25,17 @@
      - Abbreviating a word in the clue itself, as in “Trial fig.,” short for “Trial figure,” also for ATTY, or “Elephant grp.” for `GOP`
      - For short, as in “Free TV spot, for short” for `PSA`
      - In brief, as in “Individual rights defender, in brief” for `ACLU`
-  
+     - sss
+     - ** Puns: ** 
+
+#### Themes
+As mentioned above, puzzles have thematic elements. These thematic elements appear across numerous clues throughout a puzzle.
+And like the clues, the themes tend to follow certain thematic elements, which are described
+in detail on [Cruciverb](https://www.cruciverb.com/index.php?action=ezportal;sa=page;p=70).
+
+It is not going to be possible to reckon with every type of theme. Some of them, such as those involving rebus squares,
+are beyond the scope of this project.  
+#### The Grid
 
 ### Process
 
