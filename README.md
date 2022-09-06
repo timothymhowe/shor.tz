@@ -3,6 +3,11 @@
 
   Crosswords are a more than just a popular word puzzle. Depending on who you ask, they can be a hobby, a morning ritual, a way to kill time, a bonding activity, an intense competition, and an addiction. 
   
+### The Goal:
+ To create an AI capable of generating a crossword grid
+
+
+ The ultimate goal of this project is for a Shor.tz puzzle to be published in the New York Times.  
 ### The Problem: 
   
 #### Clues
@@ -39,6 +44,19 @@ are beyond the scope of this project.
 
 ### Process
 
+#### NP-Completeness of the Crossword Problem
+It can be shown that the crossword problem can be reduced to the 3-Cover problem, which is known to be NP-Complete.
+Thus, the crossword problem must be at least as complex as the 3-Cover problem.  
+
+Despite this complexity, there is still potential to generate crosswords efficiently.
+
+Several heuristics can be used to decrease the search space.
+ - 
+ -  
+
+
+
+[Link to the full proof.]()
 ### Tech Stack
 This project is built on the following solutions/frameworks/technologies:
  - `Jupyter Notebook/Lab
